@@ -1,0 +1,11 @@
+name: Suite
+configFailurePolicy: skip
+listeners:
+  - com.qa.utilities.Listeners
+  - com.qa.utilities.ExtentReportsclass
+tests:
+  - name: Test
+  parameters: { browser: firefox }
+  classes:
+    - com.qa.testlayer.Buy_ComputerTest
+
