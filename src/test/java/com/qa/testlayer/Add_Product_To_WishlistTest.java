@@ -40,7 +40,6 @@ public class Add_Product_To_WishlistTest extends TestBase
 		logg.info("Click add product to Wishlist button ");
 		w1.click_WIshlist_Link_Text();
 		logg.info("Wishlist link button clicked");
-		logg.info("Wishlist link button clicked");
 	    String actual_result =	w1.Check_Item_In_WishLIst();
 	    assertEquals(actual_result, "3rd Album");
 		
