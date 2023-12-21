@@ -41,6 +41,8 @@ public class Add_Product_To_WishlistTest extends TestBase
 		w1.click_WIshlist_Link_Text();
 		logg.info("Wishlist link button clicked");
 	    String actual_result =	w1.Check_Item_In_WishLIst();
+	    
+	    //comment addeer sdklfjasdljalsj
 	    assertEquals(actual_result, "3rd Album");
 		
 		
