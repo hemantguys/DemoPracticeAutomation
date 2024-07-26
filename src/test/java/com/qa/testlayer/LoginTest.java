@@ -43,7 +43,7 @@ public class LoginTest extends TestBase
 	{
 		ReadConfigFile r1= new ReadConfigFile();  // Object of clas which read data from configuraiton file
 		HomePage h1=new HomePage();
-		LoginPage l1= new LoginPage();
+		loginPage l1= new loginPage();
 		
 		
 		h1.Click_Login_LingButton();
