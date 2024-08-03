@@ -23,7 +23,7 @@ public class LoginTest extends TestBase
 		HomePage h1=new HomePage();
 		LoginPage l1= new LoginPage();
 		
-		System.out.println("Added on Git hub")
+		System.out.println("Added on Git hub");
 			System.out.println("Hemant");
 		h1.Click_Login_LingButton();
 		logg.info("Clicked Login button");
@@ -34,7 +34,7 @@ public class LoginTest extends TestBase
 		l1.Click_Login_Button();
 		logg.info("Login button Clicked");
 		String Expected_Result="Log out";
-		
+		System.out.println("KK");
 		Assert.assertEquals(Expected_Result, l1.Check_Successfully_login());
 		logg.info("Login successful");
 	}
