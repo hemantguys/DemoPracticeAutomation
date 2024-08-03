@@ -22,8 +22,9 @@ public class LoginTest extends TestBase
 		ReadConfigFile r1= new ReadConfigFile();  // Object of clas which read data from configuraiton file
 		HomePage h1=new HomePage();
 		LoginPage l1= new LoginPage();
-		
-		
+
+		System.out.println("Hemant");
+
 		h1.Click_Login_LingButton();
 		logg.info("Clicked Login button");
 		l1.Enter_UserName_textBox(r1.get_username());    // read user name from config.properties file
@@ -33,7 +34,7 @@ public class LoginTest extends TestBase
 		l1.Click_Login_Button();
 		logg.info("Login button Clicked");
 		String Expected_Result="Log out";
-		
+		System.out.println("KK");
 		Assert.assertEquals(Expected_Result, l1.Check_Successfully_login());
 		logg.info("Login successful");
 	}
