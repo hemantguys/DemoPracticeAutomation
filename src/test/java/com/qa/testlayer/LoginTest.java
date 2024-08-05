@@ -36,6 +36,7 @@ public class LoginTest extends TestBase
 		
 		Assert.assertEquals(Expected_Result, l1.Check_Successfully_login());
 		logg.info("Login successful");
+		System.out.println("EHantlksdjfsdf");
 	}
 	
 	@Test (priority = 2)
