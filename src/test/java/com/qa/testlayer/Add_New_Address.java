@@ -28,7 +28,6 @@ public class Add_New_Address extends TestBase
 		 l1.Click_Login_Button();
 		 
 		 h1.Click_Cutomer_ID_link_button();
-		
 		 
 		 cust.Click_Customer_Address_Link_Button();
 		 

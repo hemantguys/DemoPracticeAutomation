@@ -9,8 +9,8 @@ import java.util.Properties;
 public class ReadConfigFile 
 {
 	Properties prop;
-	String path="C:\\Users\\HP\\eclipse-workspaceSept7Javasele\\October22DemoRecordFramework1\\archetype-fitgoodies-quickstart\\Config.properties";
-	
+	String path = "E:\\Git hub\\DemoPracticeAutomation\\Config.properties";
+
 	public ReadConfigFile()
 	{
 		prop=new Properties();
