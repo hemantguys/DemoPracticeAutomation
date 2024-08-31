@@ -3335,3 +3335,86 @@
 2023-12-15 23:22:01,412 - Demo Shopping Testing Logs -INFO - Browser closed
 2023-12-15 23:22:01,419 - Demo Shopping Testing Logs -INFO - Framework execcution Finished
 2023-12-15 23:22:01,425 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-10 19:36:11,936 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-10 19:36:18,895 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-10 19:36:26,031 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:36:26,034 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:36:26,039 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:36:26,042 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:36:26,049 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:36:26,050 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:36:26,073 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-10 19:39:19,785 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-10 19:39:21,006 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-10 19:39:24,747 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:39:24,749 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:39:24,755 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:39:24,757 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:39:24,763 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:39:24,764 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:39:24,784 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-10 19:39:59,165 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-10 19:40:01,023 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-10 19:40:04,962 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:04,964 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:04,970 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:04,973 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:04,979 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:04,981 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:04,992 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-10 19:40:39,790 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-10 19:40:40,986 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-10 19:40:44,502 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:44,506 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:44,518 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:44,520 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:44,527 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-10 19:40:44,529 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-10 19:40:44,540 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-31 11:38:09,963 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-31 11:38:39,595 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-31 11:38:47,672 - Demo Shopping Testing Logs -INFO - Firefox browser launched
+2024-08-31 11:39:06,501 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:39:06,503 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-31 11:39:06,686 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:39:06,688 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-31 11:39:06,693 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-31 11:40:36,688 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-31 11:40:47,339 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-31 11:40:59,394 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:40:59,398 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-31 11:40:59,406 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:40:59,408 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-31 11:40:59,429 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:40:59,430 - Demo Shopping Testing Logs -INFO - Test case skipped
+2024-08-31 11:40:59,439 - Demo Shopping Testing Logs -INFO - Execution Finished
+2024-08-31 11:43:34,620 - Demo Shopping Testing Logs -INFO - Framework execcution started
+2024-08-31 11:43:37,717 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-31 11:43:47,660 - Demo Shopping Testing Logs -INFO - Application started
+2024-08-31 11:43:47,776 - Demo Shopping Testing Logs -INFO - Browser maximized
+2024-08-31 11:43:48,667 - Demo Shopping Testing Logs -INFO - Cookies deleted
+2024-08-31 11:43:48,693 - Demo Shopping Testing Logs -INFO - Implicitly wait given
+2024-08-31 11:43:48,703 - Demo Shopping Testing Logs -INFO - Page load wait given
+2024-08-31 11:43:48,712 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:44:07,020 - Demo Shopping Testing Logs -INFO - Test case pass
+2024-08-31 11:44:07,909 - Demo Shopping Testing Logs -INFO - Browser closed
+2024-08-31 11:44:07,990 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-31 11:44:13,845 - Demo Shopping Testing Logs -INFO - Application started
+2024-08-31 11:44:13,981 - Demo Shopping Testing Logs -INFO - Browser maximized
+2024-08-31 11:44:14,615 - Demo Shopping Testing Logs -INFO - Cookies deleted
+2024-08-31 11:44:14,625 - Demo Shopping Testing Logs -INFO - Implicitly wait given
+2024-08-31 11:44:14,629 - Demo Shopping Testing Logs -INFO - Page load wait given
+2024-08-31 11:44:14,630 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:44:30,559 - Demo Shopping Testing Logs -INFO - Test case pass
+2024-08-31 11:44:30,891 - Demo Shopping Testing Logs -INFO - Browser closed
+2024-08-31 11:44:30,945 - Demo Shopping Testing Logs -INFO - Chrome browser launched
+2024-08-31 11:44:35,321 - Demo Shopping Testing Logs -INFO - Application started
+2024-08-31 11:44:35,457 - Demo Shopping Testing Logs -INFO - Browser maximized
+2024-08-31 11:44:35,999 - Demo Shopping Testing Logs -INFO - Cookies deleted
+2024-08-31 11:44:36,006 - Demo Shopping Testing Logs -INFO - Implicitly wait given
+2024-08-31 11:44:36,015 - Demo Shopping Testing Logs -INFO - Page load wait given
+2024-08-31 11:44:36,017 - Demo Shopping Testing Logs -INFO - Test execution started
+2024-08-31 11:44:53,856 - Demo Shopping Testing Logs -INFO - Test case fail
+2024-08-31 11:44:54,667 - Demo Shopping Testing Logs -INFO - Browser closed
+2024-08-31 11:44:54,673 - Demo Shopping Testing Logs -INFO - Framework execcution Finished
+2024-08-31 11:44:54,683 - Demo Shopping Testing Logs -INFO - Execution Finished

@@ -23,7 +23,7 @@ public class LoginTest extends TestBase
 		HomePage h1=new HomePage();
 		LoginPage l1= new LoginPage();
 		
-		System.out.println("Added on Git hub")
+		System.out.println("Added on Git hub");
 			System.out.println("Hemant");
 		h1.Click_Login_LingButton();
 		logg.info("Clicked Login button");
@@ -44,8 +44,7 @@ public class LoginTest extends TestBase
 	{
 		ReadConfigFile r1= new ReadConfigFile();  // Object of clas which read data from configuraiton file
 		HomePage h1=new HomePage();
-		loginPage l1= new loginPage();
-		
+		LoginPage l1 = new LoginPage();
 		
 		h1.Click_Login_LingButton();
 		logg.info("Clicked Login button");
