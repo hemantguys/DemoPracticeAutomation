@@ -28,6 +28,7 @@ public class Add_New_Address extends TestBase
 		 l1.Click_Login_Button();
 		 
 		 h1.Click_Cutomer_ID_link_button();
+		
 		 
 		 cust.Click_Customer_Address_Link_Button();
 		 
@@ -50,6 +51,7 @@ public class Add_New_Address extends TestBase
 		 pass.Enter_Address_PhoneNumber_TextBox("9815925959");
 		 pass.Enter_Address_FaxNumber_TextBox("2334234234234");
 		 pass.Click_Add_New_Address_Button();
+		System.out.println("9823423489");
 		 
 		 
 	}
